@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/StaticDI">
+        <file>image/Background.png</file>
+        <file>image/ledHigh.png</file>
+        <file>image/ledLow.png</file>
+    </qresource>
+</RCC>

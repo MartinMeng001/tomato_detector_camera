@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/StaticDO">
+        <file>image/Background_out.png</file>
+        <file>image/ButtonDisabled.png</file>
+        <file>image/ButtonDown.png</file>
+        <file>image/ButtonUp.png</file>
+    </qresource>
+</RCC>

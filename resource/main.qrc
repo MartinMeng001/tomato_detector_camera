@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/btn_close.png</file>
+        <file>image/btn_ok.png</file>
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/msg_error.png</file>
+        <file>image/msg_info.png</file>
+        <file>image/msg_question.png</file>
+        <file>image/company.jpg</file>
+        <file>image/btncheckoff3.png</file>
+        <file>image/btncheckon3.png</file>
+        <file>image/btncheckoff2.png</file>
+        <file>image/btncheckon2.png</file>
+        <file>image/Camera.ico</file>
+        <file>image/company.png</file>
+        <file>image/package_system.ico</file>
+        <file>image/package_yast_system.ico</file>
+        <file>image/preferences_system.ico</file>
+        <file>image/Sys.ico</file>
+        <file>image/system_file_manager.ico</file>
+        <file>image/system_monitor.ico</file>
+        <file>image/utilities_system_monitor.ico</file>
+        <file>image/electronics.ico</file>
+    </qresource>
+</RCC>
